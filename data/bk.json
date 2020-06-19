@@ -1,0 +1,151 @@
+{
+    "menu": [
+        {
+            "kategori": "big burger",
+            "nama": "Whopper",
+            "deskripsi": "Served with a small side of piping hot, thick cut French Fries or golden Onion Rings and a small fountain drink of your choice to make it a meal.",
+            "harga": 55.454,
+            "gambar": "whopper.jpg"
+        },
+        {
+            "kategori": "big burger",
+            "nama": "Double Whopper",
+            "deskripsi": "Our Double WHOPPER® Sandwich is a pairing of two ¼ lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+            "harga": 75.909,
+            "gambar": "double-whopper.jpg"
+        },
+        {
+            "kategori": "big burger",
+            "nama": "Cheeseburger XL",
+            "deskripsi": "You can’t go wrong with our cheeseburger, a signature flame-grilled. beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+            "harga": 55.454,
+            "gambar": "cheeseburger-xl.jpg"
+        },
+        {
+            "kategori": "big burger",
+            "nama": "4-Cheese Whopper",
+            "deskripsi": "Our 4-Cheese WHOPPER® Sandwich features a savory flame-grilled patty made from plants topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. 100% WHOPPER®, 0% Beef.",
+            "harga": 65.909,
+            "gambar": "4-cheese-whopper.jpg"
+        },
+        {
+            "kategori": "big burger",
+            "nama": "BBQ Steakhouse Beef",
+            "deskripsi": "Melted American cheese, freshly cut iceberg lettuce, creamy mayo, ripe tomatoes, ketchup, onions, crunchy pickles, and layers of a sweet and smoky bbq sauce, all on a warm, toasted, sesame seed bun.",
+            "harga": 65.909,
+            "gambar": "bbq-steakhouse-beef.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Whopper Jr",
+            "deskripsi": "Sandwich features one savory flame-grilled beef patty topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+            "harga": 45.454,
+            "gambar": "whooper-jr.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Cheeseburger",
+            "deskripsi": "You can’t go wrong with our cheeseburger, a signature flame-grilled. beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+            "harga": 39.091,
+            "gambar": "cheeseburger.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Double Cheeseburger",
+            "deskripsi": "Make room for our Double Cheeseburger, two signature flame-grilled beef patties topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+            "harga": 47.727,
+            "gambar": "double-cheeseburger.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Mushroom Swiss",
+            "deskripsi": "A creation like no other! Creamy subtle taste of mushroom and melted swiss cheese with perfectly grilled beef patties served with soft sesame buns. Mush-room for your tummy to be filled!",
+            "harga": 45.909,
+            "gambar": "mushroom-swiss.jpg"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Classic Crispy Chicken",
+            "deskripsi": "Bonjour! The beauty that was created for an everlasting love. Crispy long chicken patty with a combination of chicken strips, cheese and creamy mayo in between two long sesame seed buns. A definite top favourite!",
+            "harga": 48.182,
+            "gambar": "classic-crispy-chicken.jpg"
+        },
+        {
+            "kategori": "snacks",
+            "nama": "French Fries",
+            "deskripsi": "Yummy shoe-string fires fried to a crisp golden brown, served piping hot withyour favourite Value Meal, or as the star of the moment.",
+            "harga": 15.000,
+            "gambar": "french-fries.jpg"
+        },
+        {
+            "kategori": "snacks",
+            "nama": "Cheesy Fries",
+            "deskripsi": "Cheesy shoe-string fires fried to a crisp golden brown, with melted Cheese on it, served piping hot withyour favourite Value Meal, or as the star of the moment.",
+            "harga": 10.909,
+            "gambar": "cheesy-fries.jpg"
+        },
+        {
+            "kategori": "snacks",
+            "nama": "Chicken Fries",
+            "deskripsi": "Are all chicken fries the same? Only if they‘re made with the same love as BK Nuggets are. They‘re crispier. They‘re juicier. They‘re tastier. Hungry yet?",
+            "harga": 22.727,
+            "gambar": "chicken-fries.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Chicken Club Salad",
+            "deskripsi": "Our Chicken Club Salad is a mix of crispy green romaine, green leaf and radicchio lettuce, thick-cut smoked bacon pieces, shredded cheddar cheese, juicy-ripened tomatoes, and buttery garlic croutons.",
+            "harga": 49.126,
+            "gambar": "chicken-club-salad.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Garden Side Salad",
+            "deskripsi": "Something light on the tummy but super packed with great nutrients. Come enjoy our salad bowl with special sauce on its own or swap it with fries when you order your next BK meal!",
+            "harga": 30.646,
+            "gambar": "garden-side-salad.jpg"
+        },
+        {
+            "kategori": "salads",
+            "nama": "Chicken Garden Salad",
+            "deskripsi": "Our Chicken Garden Salad is a mix of crisp green romaine, green leaf and radicchio lettuce, juicy-ripened tomatoes, buttery garlic croutons, and shredded cheddar cheese.",
+            "harga": 39.886,
+            "gambar": "chicken-garden-salad.jpg"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Large Cokes",
+            "deskripsi": "Great selection of drinks to be consumed with or without straw. Your favourite drinks only @ BK. Choose your pleasure.",
+            "harga": 18.636,
+            "gambar": "big-cokes.jpg"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Large Sprite",
+            "deskripsi": "Great selection of drinks to be consumed with or without straw. Your favourite drinks only @ BK. Choose your pleasure.",
+            "harga": 18.636,
+            "gambar": "large-sprite.jpg"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Large Original Tea",
+            "deskripsi": "A tea lover will always find a way to enjoy it. You can now enjoy at BK. Perfect for relaxation.",
+            "harga": 18.636,
+            "gambar": "large-original-tea.jpg"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Mineral Water",
+            "deskripsi": "Cool down with our Mineral water, it sure does quench your thirst!",
+            "harga": 8.820,
+            "gambar": "mineral-water.jpg"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Large Fanta",
+            "deskripsi": "Great selection of drinks to be consumed with or without straw. Your favourite drinks only @ BK. Choose your pleasure.",
+            "harga": 18.636,
+            "gambar": "large-fanta.jpg"
+        }
+    ]
+}
